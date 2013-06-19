@@ -1,0 +1,16 @@
+{
+	"testCall1":{
+		"url": "",
+		"method": "POST",
+		"header":{},
+		"parameters":{},
+		"payload": {},
+		"threadCount": 1,
+		"expectation": {
+			"#SESSION_ID": "$exists", // header vagy parameter
+			"payload": { "title": "Alice in wonderland!" },
+			"statusCode": 200,
+			"responseTimeLimit": "5000"
+		}
+	}
+}
