@@ -1,5 +1,5 @@
 {
-  "name": "grunt-connect-rest-test",
+  "name": "connect-rest-test",
   "description": "Grunt test plugin for connect-rest",
   "version": "0.1.0",
   "homepage": "https://github.com/imrefazekas/connect-rest-test",
@@ -38,6 +38,6 @@
     "grunt": "~0.4.1"
   },
   "keywords": [
-    "gruntplugin", "connect-rest"
+    "gruntplugin"
   ]
 }
