@@ -1,7 +1,9 @@
-# [connect-rest-test](https://github.com/imrefazekas/connect-rest-test) is a simple plugin to run rest-api calls in harmony with the [connect-rest](https://github.com/imrefazekas/connect-rest) middleware
-
+# [connect-rest-test](https://github.com/imrefazekas/connect-rest-test) is a simple plugin to run rest-api calls
 
 ## Getting Started
+
+To be in harmony with the [connect-rest](https://github.com/imrefazekas/connect-rest) middleware...
+
 This plugin requires Grunt `~0.4.1`
 
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
