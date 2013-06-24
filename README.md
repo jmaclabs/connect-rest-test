@@ -50,7 +50,7 @@ grunt.initConfig({
 					//"payload": {},
 					"expectation": {
 						"#date": "$exists",
-						"#content-type": "text/html; charset=UTF-8", // header vagy parameter
+						"#content-type": "text/html; charset=UTF-8",
 						//"payload": { "title": "Alice in wonderland!" },
 						"statusCode": 200,
 						"responseTimeLimit": "7500"
